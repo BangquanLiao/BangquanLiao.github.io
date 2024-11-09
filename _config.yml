@@ -21,7 +21,7 @@ repository               : "BangquanLiao/BangquanLiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.png"
   name             : "Bangquan Liao"
   pronouns         :  "He/His"  
   bio              : "A highly motivated Biomedical Engineer committed to advancing healthcare technologies with the goal of improving quality of life for individuals and society as a whole. Proficiency in Avizo, MATLAB, Creo and SPSS."
