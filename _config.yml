@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bangquan Liao"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Bangquan Liao"
+description              : &description "A highly motivated Biomedical Engineer committed to advancing healthcare technologies with the goal of improving quality of life for individuals and society as a whole. Proficiency in Avizo, MATLAB, Creo and SPSS."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
