@@ -1,14 +1,15 @@
 ---
-title: "A SYSTEMATIC ANALYSIS CONFIRMED THAT MECHANICAL AND STRUCTURAL ANISOTROPIES DO NOT CONCUR IN 37% OF EQUATORIAL SCLERA SAMPLES"
+title: "Paper Title Number 1"
 collection: publications
-category: conferences abstract
-permalink: /files/Abstract_Ver3-ToSubmit.pdf
-#permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about analyzing the anisotropies of the equatorial sclera.'
-date: 2024-01-23
-venue: 'Summer Biomechanics, Bioengineering and Biotransport Conference'
-paperurl: 'http://BangquanLiao.github.io/files/Abstract_Ver3-ToSubmit.pdf'
-citation: 'Bangquan, L et al. (2024). &quot;A SYSTEMATIC ANALYSIS CONFIRMED THAT MECHANICAL AND STRUCTURAL ANISOTROPIES DO NOT CONCUR IN 37% OF EQUATORIAL SCLERA SAMPLES. &quot; <i>SB3C</i>.'
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
