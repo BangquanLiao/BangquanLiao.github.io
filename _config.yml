@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bangquan"
+title                    : "Bangquan's Homepage"
 title_separator          : "-"
 name                     : &name "Bangquan Liao"
 description              : &description "Great men are not born great, they grow great."
