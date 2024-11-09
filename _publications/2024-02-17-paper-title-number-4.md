@@ -1,7 +1,7 @@
 ---
 title: "A SYSTEMATIC ANALYSIS CONFIRMED THAT MECHANICAL AND STRUCTURAL ANISOTROPIES DO NOT CONCUR IN 37% OF EQUATORIAL SCLERA SAMPLES"
 collection: publications
-category: manuscripts
+category: Conference abstract
 permalink: /files/Abstract_Ver3-ToSubmit.pdf
 excerpt: 'This paper is about analyzing the anisotropy of equatorial sclera.'
 date: 2024-06-11
