@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A SYSTEMATIC ANALYSIS CONFIRMED THAT MECHANICAL AND STRUCTURAL ANISOTROPIES DO NOT CONCUR IN 37% OF EQUATORIAL SCLERA SAMPLES"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
