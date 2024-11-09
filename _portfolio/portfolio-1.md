@@ -1,6 +1,6 @@
 ---
 title: "Equatorial sclera project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Integrated polarized light microscopy and image processing skills to explore scleral biomechanics.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
