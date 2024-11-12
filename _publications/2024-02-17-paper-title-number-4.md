@@ -3,7 +3,7 @@ title: "A SYSTEMATIC ANALYSIS CONFIRMED THAT MECHANICAL AND STRUCTURAL ANISOTROP
 collection: publications
 category: conferences 
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about analyzing the anisotropy of equatorial sclera.'
+excerpt: 'This abstract is about analyzing the anisotropy of equatorial sclera.'
 date: 2024-06-11
 venue: 'Summer Biomechanics, Bioengineering and Biotransport Conference'
 paperurl: 'http://BangquanLiao.github.io/files/Abstract_Ver3-ToSubmit.pdf'
