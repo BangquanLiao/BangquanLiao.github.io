@@ -4,4 +4,4 @@ excerpt: "Integrated polarized light microscopy and image processing skills to e
 collection: portfolio
 ---
 
-This is the research project in the Laboratory of Ocular Biomechanics. The ultimate goals is to analyze the mechanical and structural anistropies of the equatorial sclera. The equibiaxial tensile testing and polarized light microscopy was utilized to measure the stiffness and fiber orientation of equatorial sclera of 5 porcine eyes.
+This is the research project in the Laboratory of Ocular Biomechanics. The ultimate goals is to analyze the mechanical and structural anistropies of the equatorial sclera. The equibiaxial tensile testing and polarized light microscopy was utilized to measure the stiffness and fiber orientation of equatorial sclera of 5 porcine eyes.n
