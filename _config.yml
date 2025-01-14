@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+。# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -25,8 +25,8 @@ author:
   name             : "Bangquan Liao"
   pronouns         :  "He/His"  
   bio              : "A highly motivated Biomedical Engineer committed to advancing healthcare technologies with the goal of improving quality of life for individuals and society as a whole. Proficiency in Avizo, MATLAB, Creo and SPSS."
-  location         : "Pittsburgh"
-  employer         : "University of Pittsburgh"
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Texax Tech University"
   uri              : # URL
   email            : #"bangquanliao@gmail.com" 
 
